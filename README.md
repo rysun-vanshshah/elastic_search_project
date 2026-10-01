@@ -211,3 +211,4 @@ Simply open [frontend/index.html](file:///d:/OneDrive%20-%20Rysun%20Labs/Desktop
 - Interactive searchbar with natural language price support.
 - Category & Brand dynamic dropdowns that auto-synchronize with search results.
 - Switch between **🛍️ Product Cards**, **⚡ Raw JSON**, and **🔍 Elasticsearch Query** with single-click copying.
+# elastic_search_project
