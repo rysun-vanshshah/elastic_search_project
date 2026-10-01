@@ -1,0 +1,18 @@
+# ==============================================================================
+# PROJECT DEPENDENCIES (requirements.txt)
+# ==============================================================================
+
+# Database Connectivity (Microsoft SQL Server)
+pyodbc>=4.0.35
+
+# Search Engine & Ingestion (Elasticsearch 8.x client & transport)
+elasticsearch>=8.0.0
+urllib3>=2.0.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# REST API Framework & ASGI Web Server
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+pydantic>=2.0.0
